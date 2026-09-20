@@ -1,0 +1,10 @@
+[Event "Gambit Lab -- first engine game (notebook)"]
+[Site "?"]
+[Date "2026.09.20"]
+[Round "?"]
+[White "Student"]
+[Black "Stockfish 1350"]
+[Result "*"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 g6 4. e3 Nh5 5. Nge2 Na6 6. g4 Nxf4 7. Nxf4 Rb8 8. Ncxd5 c6 9. Nc3 Qa5 10. Bc4 Bg7 11. O-O O-O 12. a3 e5 13. b4 Qb6 *
+
