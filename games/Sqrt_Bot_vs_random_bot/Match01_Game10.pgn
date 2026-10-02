@@ -1,0 +1,10 @@
+[Event "Gambit Lab"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "random_bot"]
+[Black "Sqrt_Bot"]
+[Result "0-1"]
+
+1. b4 e6 2. a3 Qh4 3. Nh3 Nc6 4. e4 Qg3 5. Be2 Bc5 6. Nf4 Qxf2# 0-1
+

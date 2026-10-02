@@ -1,0 +1,10 @@
+[Event "Gambit Lab"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "random_bot"]
+[Black "Must_Lose"]
+[Result "*"]
+
+1. e3 e5 2. Ba6 Qh4 3. Nc3 Qxf2+ 4. Kxf2 d5 5. Bb5+ c6 6. d4 Bg4 7. Ba4 Bb4 8. Qd3 Nd7 9. Nce2 Be1+ 10. Kf1 Bxe2+ 11. Kxe1 e4 12. h4 Ne7 13. c3 Nf5 14. Qb5 Ng3 15. Qd3 b5 16. Rb1 Bg4 17. Bc2 Nc5 18. c4 Nb3 19. Ra1 Rb8 20. Qf1 f6 21. Qf2 Rb7 22. Qf4 g5 23. Qb8+ Bc8 24. Ne2 h5 25. a4 Rc7 26. hxg5 h4 27. Rh2 h3 28. gxh3 Nf5 29. Bxe4 a6 30. Rf2 c5 31. Qb6 Be6 32. Kf1 Ng3+ 33. Nxg3 Nd2+ 34. Ke2 Bg4+ 35. Kd3 dxc4+ 36. Kc3 b4+ 37. Kc2 b3+ 38. Kxd2 c3+ 39. Ke1 cxb2 40. Bd5 bxc1=R+ 41. Kd2 Rd1+ 42. Rxd1 Bf3 43. Qc6+ Rd7 44. Qb5 c4 45. Re2 c3+ 46. Kd3 Be4+ 47. Kxe4 f5+ 48. Nxf5 Rh4+ 49. Ke5 Re4+ 50. Kxe4 Kd8 51. Bb7 Re7+ 52. Nxe7 c2 53. Qd5+ Kxe7 54. Ree1 b2 55. Qe6+ Kxe6 56. Rd3 a5 57. Kf4 Ke7 58. Bc8 Kf7 59. Bb7 Ke7 60. Ke5 Kf7 61. Rb1 Kg6 62. Ke6 Kg7 63. g6 Kxg6 64. Kd5 Kg7 65. Ba6 Kf7 66. Bb7 Kg7 67. Ra1 Kf7 68. Rf1+ Kg6 69. Ke4 Kg5 70. Rf4 Kg6 71. Rb3 Kh7 72. Rg4 Kh6 73. Ba6 Kh7 74. Rb4 Kh6 75. Rg1 Kh7 76. Rb6 Kh8 77. Rg7 Kxg7 78. Rb7+ Kg6 79. Bb5 Kg5 80. Ra7 Kh4 *
+

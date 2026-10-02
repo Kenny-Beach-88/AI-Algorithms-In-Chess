@@ -1,0 +1,10 @@
+[Event "Gambit Lab"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Turing_Bot_Mobile"]
+[Black "Turing_Bot"]
+[Result "*"]
+
+1. e4 e6 2. Qh5 Qg5 3. Qxg5 Bb4 4. Qe7+ Nxe7 5. Bb5 Bxd2+ 6. Bxd2 Nbc6 7. Bxc6 Nxc6 8. Bg5 f6 9. Bxf6 gxf6 10. Nd2 Rg8 11. Ne2 Rxg2 12. Ng3 Rxg3 13. hxg3 Nd4 14. Rxh7 Nxc2+ 15. Ke2 Nxa1 16. Rh8+ Kf7 17. Rxc8 Rxc8 18. Nc4 Rh8 19. Nd6+ cxd6 20. Kd2 Nb3+ 21. axb3 Rh1 22. Kd3 Rc1 23. Ke3 e5 24. b4 Rc3+ 25. bxc3 f5 26. exf5 d5 27. Kd2 d4 28. cxd4 exd4 29. b5 Kg7 30. f6+ Kxf6 31. Kc2 d3+ 32. Kxd3 d5 33. Kc2 d4 34. g4 d3+ 35. Kxd3 Ke7 36. g5 b6 37. Kc2 Kd6 38. Kd3 Ke7 39. Kd2 Kd6 40. Kd3 Ke7 41. Kd2 Kd6 42. Kc2 Ke5 43. f4+ Kxf4 44. Kd2 Kxg5 45. Kd3 Kf4 46. Kc3 Ke3 47. Kb3 Kf3 48. Kc2 Ke4 49. Kb3 Kd4 50. Kb2 Ke3 51. Kc3 Ke4 52. Kb2 Kd4 53. Kc2 Ke4 54. Kb2 Kd3 55. Kb3 Ke2 56. Kc2 Kf2 57. Kd2 Kg3 58. Kd3 Kg4 59. Ke3 Kg5 60. Kf3 Kf5 *
+

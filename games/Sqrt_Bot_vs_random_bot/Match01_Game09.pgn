@@ -1,0 +1,10 @@
+[Event "Gambit Lab"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sqrt_Bot"]
+[Black "random_bot"]
+[Result "1/2-1/2"]
+
+1. e4 a5 2. Qh5 e6 3. d4 Bc5 4. Bb5 Na6 5. Bf4 Bb4+ 6. Nc3 Ra7 7. Bd6 Bxc3+ 8. Ke2 a4 9. Nf3 a3 10. Nd2 Qg5 11. f4 Qe5 12. Kf2 Nb4 13. Be7 b6 14. d5 Nxc2 15. g3 Ra8 16. Kg2 Qxh5 17. g4 Bxd2 18. h4 Qxh4 19. Rh3 Bc3 20. Rd1 Bf6 21. e5 Bxe5 22. Re1 Qxe1 23. Rc3 Qxc3 24. Bd3 Ra6 25. Bc5 Qd4 26. Bb4 Ra5 27. g5 Bd6 28. Bc5 Bxf4 29. Bb4 Ne7 30. Bd2 Nc6 31. Bb4 Qxb4 32. Bb5 Qb3 33. Bd3 Qxd3 34. Kg1 Bh2+ 35. Kg2 Qb5 36. b4 g6 37. Kh3 f5 38. Kg2 Na7 39. d6 Kd8 40. dxc7+ Ke7 41. Kh3 d6 42. Kg2 Kf8 43. Kh3 Qd5 44. b5 Na1 45. Kh4 Qg2 1/2-1/2
+

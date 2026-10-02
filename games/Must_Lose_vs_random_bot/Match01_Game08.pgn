@@ -1,0 +1,10 @@
+[Event "Gambit Lab"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "random_bot"]
+[Black "Must_Lose"]
+[Result "0-1"]
+
+1. e3 f6 2. Qe2 Kf7 3. Qd3 Ke8 4. Qf5 h6 5. Qh3 a6 6. b3 Rh7 7. g4 Rh8 8. Ke2 b6 9. Na3 c6 10. Kd1 Rh7 11. Bg2 c5 12. f3 Rh8 13. Ne2 g5 14. Rg1 f5 15. Nc3 c4 16. Rb1 f4 17. Qg3 fxe3 18. Bb2 b5 19. Ke2 Rh7 20. d4 Rh8 21. Ke1 e2 22. Qf4 b4 23. Rc1 Rh7 24. h3 Rh8 25. Qf6 Rh7 26. Kf2 Rh8 27. Qc6 a5 28. Bf1 Ra6 29. Bg2 Ra8 30. Nd5 Ra6 31. Bh1 Ra8 32. Qb6 Ra6 33. Rg3 a4 34. h4 c3 35. Rb1 Ra8 36. Ke1 Na6 37. Nf4 Rb8 38. Ng2 Ra8 39. d5 Rb8 40. Ra1 Ra8 41. Nc4 Rb8 42. Qxd8+ Kf7 43. Kf2 Kf6 44. Nge3 Bg7 45. Ba3 Ra8 46. Bc1 a3 47. Ke1 Rh7 48. Kxe2 Rh8 49. Nb6 Rb8 50. Rh3 Ra8 51. Kd3 Rb8 52. Qxg8 e5 53. Ke4 Nc5# 0-1
+

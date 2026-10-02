@@ -1,0 +1,10 @@
+[Event "Gambit Lab"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "sf_bot"]
+[Black "Sqrt_Bot"]
+[Result "1-0"]
+
+1. h3 e6 2. Nf3 Qg5 3. Nxg5 Bb4 4. e3 Nc6 5. Nxe6 Nd4 6. a3 Nf3+ 7. Qxf3 Nf6 8. Nf4 Ne4 9. Bc4 d5 10. Nxd5 Bg4 11. Qxe4+ Kd7 12. b3 Rhe8 13. Qxg4+ f5 14. Qxf5+ Re6 15. axb4 Kd6 16. Qf4+ Kd7 17. Qf5 Kd8 18. Qf8+ Kd7 19. Qxg7+ Re7 20. Qxe7+ Kc6 21. Ra6+ b6 22. Qxc7# 1-0
+

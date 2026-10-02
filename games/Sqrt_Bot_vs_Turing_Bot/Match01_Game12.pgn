@@ -1,0 +1,10 @@
+[Event "Gambit Lab"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Turing_Bot"]
+[Black "Sqrt_Bot"]
+[Result "1/2-1/2"]
+
+1. e4 e5 2. Qh5 Qh4 3. Qxh4 Bb4 4. Qe7+ Nxe7 5. Bb5 Nd5 6. Bxd7+ Ke7 7. exd5 f5 8. Bxc8 Nd7 9. Bxd7 c6 10. d6+ Kf7 11. Be6+ Kf6 12. Bxf5 e4 13. Bxe4 Rhe8 14. Ne2 Re5 15. Bxh7 g6 16. Bxg6 Rh8 17. Be4 Rf5 18. Bxf5 Re8 19. Be6 Rh8 20. Nbc3 Kg6 21. Nf4+ Kg5 22. h4+ Kf6 23. Ne4+ Kg7 24. Nh5+ Kg6 25. Nf4+ Kg7 26. Nh5+ Kg6 27. Nf4+ Kg7 28. Nh5+ Kg6 29. Nf4+ Kg7 30. Nh5+ Kg6 31. Nf4+ Kg7 1/2-1/2
+

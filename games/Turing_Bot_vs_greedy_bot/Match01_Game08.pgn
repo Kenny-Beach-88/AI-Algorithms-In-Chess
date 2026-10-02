@@ -1,0 +1,10 @@
+[Event "Gambit Lab"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "greedy_bot"]
+[Black "Turing_Bot"]
+[Result "1-0"]
+
+1. e3 e5 2. Qe2 Qh4 3. Qd3 Qxf2+ 4. Kxf2 d5 5. Qxh7 Rxh7 6. Nc3 Rxh2 7. Rxh2 Bg4 8. Nxd5 Nc6 9. Nxc7+ Kd7 10. Nxa8 Bc5 11. Bb5 Bxe3+ 12. Kxe3 Kd6 13. Bxc6 Kxc6 14. Nh3 Bxh3 15. gxh3 Nf6 16. Kf3 e4+ 17. Kf2 e3+ 18. Kxe3 Nd5+ 19. Kf3 Kd7 20. Kg4 f5+ 21. Kxf5 g6+ 22. Kxg6 Nf4+ 23. Kh6 Ke7 24. Kg5 Ne6+ 25. Kg4 Nd4 26. Re2+ Nxe2 27. d4 Nxc1 28. Rxc1 Kf7 29. h4 Kg6 30. Rd1 Kf7 31. c3 Ke7 32. Rb1 Kf7 33. Rh1 Kg7 34. Rg1 Kg6 35. d5 Kg7 36. Rb1 Kg6 37. Rc1 Kg7 38. Nc7 Kg6 39. Rh1 Kg7 40. Kf4 Kg6 41. Rg1+ Kh5 42. Rg7 Kxh4 43. Rh7# 1-0
+
