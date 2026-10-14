@@ -1,0 +1,10 @@
+[Event "Gambit Lab"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Control_Center_Difference"]
+[Black "Turing_Bot"]
+[Result "*"]
+
+1. d4 e6 2. Qd3 Bb4+ 3. Nc3 Bxc3+ 4. bxc3 Qg5 5. Bxg5 Ne7 6. Bxe7 Kxe7 7. Qf5 exf5 8. e4 fxe4 9. Bc4 d5 10. Bxd5 Bg4 11. Bxb7 Nc6 12. Bxa8 Rxa8 13. Nf3 exf3 14. gxf3 Bxf3 15. Rb1 Bxh1 16. f3 Bxf3 17. Rb8 Rxb8 18. Kf2 Nxd4 19. cxd4 Rb1 20. Kxf3 Rf1+ 21. Ke4 f5+ 22. Ke5 Re1+ 23. Kxf5 g6+ 24. Kf4 g5+ 25. Kxg5 Re5+ 26. dxe5 h6+ 27. Kxh6 Kf7 28. e6+ Kxe6 29. c4 Kf7 30. Kg5 Kg7 31. Kf4 Kf7 32. Ke4 Kg6 33. h4 Kf7 34. h5 Ke7 35. Kd5 c6+ 36. Kxc6 Ke6 37. Kc5 Ke7 38. Kd5 Kd7 39. h6 Ke7 40. h7 Kd7 41. h8=Q Kc7 42. Qf6 Kd7 43. Ke4 Kc7 44. Qd6+ Kxd6 45. c5+ Kxc5 46. a3 Kc6 47. a4 Kd6 48. a5 Ke6 49. a6 Ke7 50. Kd5 Kd7 51. Ke4 Kd6 52. Kd4 Ke6 53. Ke4 Kf7 54. Kd5 Kg6 55. Ke5 Kf7 56. Kd4 Ke6 57. Ke4 Kf7 58. Kd4 Kg6 59. Kd5 Kf6 60. Kd4 Ke6 61. Ke4 Kf6 62. Kd5 Kg5 63. Ke5 Kg6 64. Ke4 Kf6 65. Kd4 Ke7 66. Ke4 Kd6 67. Kd4 Ke7 68. Kd5 Kf7 69. Ke4 Kg6 70. Kd4 Kf6 71. Ke4 Kg6 72. Ke5 Kg7 73. Kd4 Kf6 74. Kd5 Ke7 75. Kd4 Kd7 76. Ke4 Ke6 77. Kd4 Kd7 78. Ke5 Ke7 79. Kd4 Kf7 80. Ke5 Kg6 *
+

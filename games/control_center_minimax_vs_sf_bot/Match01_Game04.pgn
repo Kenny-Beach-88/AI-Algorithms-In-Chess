@@ -1,0 +1,10 @@
+[Event "Gambit Lab"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "sf_bot"]
+[Black "control_center_minimax"]
+[Result "*"]
+
+1. e3 c5 2. Bb5 Qa5 3. Bc4 h5 4. c3 Rh7 5. Nf3 b6 6. d4 Bb7 7. Ng5 Bxg2 8. e4 Bxh1 9. Bxf7+ Kd8 10. Nxh7 Bxe4 11. Nxf8 Bxb1 12. dxc5 Bxa2 13. Rxa2 Qxc5 14. Nxd7 Nxd7 15. Be3 Qd6 16. Qxd6 exd6 17. Bd5 Rc8 18. Bxg8 Nf6 19. Be6 Rc7 20. Bb3 Re7 21. h3 Nh7 22. Kd2 Re4 23. Rxa7 b5 24. Bc2 Re7 25. Ra5 d5 26. Bxh7 g6 27. Ra8+ Kc7 28. Rh8 Kd7 29. f4 Kc7 30. Bd4 Re4 31. Be3 Re7 32. Ra8 Rxh7 33. Ke2 Rd7 34. Ra5 Re7 35. Kd3 Kd7 36. Rxb5 Kc8 37. Kd2 Rd7 38. Ra5 Kd8 39. Kd3 Rd6 40. b4 Kd7 41. b5 Kd8 42. Kd2 Ke7 43. b6 Rd7 44. h4 Rb7 45. Kd3 Ke6 46. Ra6 Kf5 47. Ra1 Ke6 48. Ra7 Rb8 49. Bc5 g5 50. Re7+ Kf5 51. hxg5 Kxf4 52. g6 Kg4 53. g7 h4 54. Re2 h3 55. Bf8 Kf5 56. Rf2+ Ke5 57. Rf1 h2 58. Re1+ Kf4 59. Rf1+ Ke5 60. Rh1 Kf4 61. Rxh2 Kg3 62. Re2 Kf3 63. Rh2 Kg3 64. g8=Q+ Kxh2 65. Qh8+ Kg2 66. Qh6 Rd8 67. Qd2+ Kh1 68. Qh6+ Kg1 69. Qe3+ Kf1 70. Qf4+ Kg1 71. Qg3+ Kh1 72. Qe1+ Kh2 73. Qh4+ Kg2 74. b7 Rxf8 75. Qg4+ Kh1 76. Qh3+ Kg1 77. Qg3+ Kh1 78. Qh3+ Kg1 79. Qg3+ Kf1 80. b8=Q Rxb8 *
+

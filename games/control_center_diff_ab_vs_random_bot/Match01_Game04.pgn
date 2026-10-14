@@ -1,0 +1,10 @@
+[Event "Gambit Lab"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "random_bot"]
+[Black "control_center_diff_ab"]
+[Result "0-1"]
+
+1. e3 e6 2. Ke2 Qg5 3. c3 Nc6 4. Nh3 Qe5 5. Nf4 Nf6 6. Nh3 Bd6 7. a3 a5 8. e4 Qxe4# 0-1
+

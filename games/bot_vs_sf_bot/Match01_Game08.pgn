@@ -1,0 +1,10 @@
+[Event "Gambit Lab"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "sf_bot"]
+[Black "bot"]
+[Result "0-1"]
+
+1. a4 a5 2. d4 Nf6 3. Nf3 Ne4 4. Qd3 f5 5. g4 fxg4 6. Ng5 d5 7. h3 gxh3 8. Qb5+ c6 9. Qd3 Bd7 10. Bxh3 Nxg5 11. Bxg5 Bxh3 12. Rxh3 Qb6 13. Qf5 Nd7 14. Nd2 Qxd4 15. Rb3 g6 16. Be3 Qxe3 17. Qxd7+ Kxd7 18. c4 Qa7 19. e3 dxc4 20. Rd1 cxb3 21. Nc4+ Ke8 22. Rd3 Qa6 23. Rd4 Bg7 24. Rd6 Qxc4 25. Rd4 Qc1+ 26. Ke2 Qxb2+ 27. Ke1 Qb1+ 28. Rd1 Bc3+ 29. Kf1 Qxd1+ 30. Kg2 b2 31. f4 Qxa4 32. f5 gxf5 33. Kg3 Qg4+ 34. Kh2 Be5+ 35. Kh1 Kf7 36. e4 Kf8 37. exf5 e6 38. fxe6 b1=R# 0-1
+

@@ -1,0 +1,10 @@
+[Event "Gambit Lab"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Turing_Bot_Mobile"]
+[Black "negamax_ab"]
+[Result "0-1"]
+
+1. e3 b6 2. Qh5 Bb7 3. Qxf7+ Kxf7 4. Bc4+ e6 5. Bxe6+ dxe6 6. d4 Bxg2 7. e4 Bxh1 8. Bg5 Qxg5 9. Nd2 Qxg1+ 10. Nf1 Bxe4 11. d5 Bxd5 12. c4 Bxc4 13. O-O-O Qxf2 14. Rd7+ Nxd7 15. Ne3 Qxe3+ 16. Kb1 Bd3+ 17. Ka1 Qe1# 0-1
+
